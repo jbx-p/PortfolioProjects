@@ -1,8 +1,9 @@
-Covid 19 Data Exploration 
+---Covid 19 Data Exploration 
 
 Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 In this project we will be using SQL to do some Data Exploration on the Covid data, 
 -- Overview:
+
 A. Calculations:
   
   
